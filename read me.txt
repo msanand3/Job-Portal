@@ -1,0 +1,34 @@
+Project statement:
+Campus recruitment portal (Web-based) : A portal, where TPO, company, and student can individually login to their account. A company can announce job in the portal after login. A student can apply for a job announced by the companies. TPO can add, remove students and companies and view the statistics. 
+
+
+
+Group members
+17010108    Shashank Verma    
+17010131    Mukul S Anand
+
+Our project is done by using mysql as database using PHP.
+1.Our project comprsises of one database containing and five table:-
+	1.1 inputstudentdetails
+	1.2 inputcompanydetails
+	1.3 companysignup
+	1.4 singin
+	1.5 Tporecord
+2.The folder job contains all the 18 files.
+
+How to run?
+1.Open the Job folder. 
+2.Run the main.php file.
+3.It will take you to the 3 different domains students,company,TPO(Training and placement Office)
+4.There you can select between 3 domains.
+5.Third domain is TPO which can only be logined by Admin.
+6.In student domain you can Register your self and can login.
+7.After login into student you can add your details after clicking on submit all the jobs which match your profile will be displayed.
+8.In Company domain you can register your company and after login you can add your job requirement details.
+9.In admin details you can view student and company details and can remove student and can view stats.
+
+
+
+  
+
+
